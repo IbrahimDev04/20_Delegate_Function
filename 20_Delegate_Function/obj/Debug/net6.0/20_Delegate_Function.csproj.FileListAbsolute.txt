@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\bin\Debug\net6.0\20_Delegate_Function.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\bin\Debug\net6.0\20_Delegate_Function.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\bin\Debug\net6.0\20_Delegate_Function.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\bin\Debug\net6.0\20_Delegate_Function.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\bin\Debug\net6.0\20_Delegate_Function.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\20_Delegate_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\20_Delegate_Function.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\20_Delegate_Function.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\20_Delegate_Function.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\20_Delegate_Function.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\refint\20_Delegate_Function.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\20_Delegate_Function.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\20_Delegate_Function.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\20_Delegate_Function\20_Delegate_Function\obj\Debug\net6.0\ref\20_Delegate_Function.dll
